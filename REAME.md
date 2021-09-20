@@ -1,0 +1,1 @@
+Lancer juste le .py et vous avez une chance sur six que l'os se supprime.
